@@ -1,0 +1,23 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:10px;
+    padding: 10px;
+    background-color: #F55a5A;
+    color: white;
+}
+.journal-entry{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    gap:10px;
+}
+.japanImg{
+ width:125px;
+ height: 168px;
+ border-radius: 5px;
+}
+.japan-div{
+    margin-top:10px;
+}
